@@ -1,1 +1,11 @@
-hello
+The purpose of this project is estimate flower's species.To begin with,
+a user has to upload a photo to the website. When user clicks on "upload" button, 
+the program takes that photo, analyze it and then returns the predicted flower species. 
+Besides, this photo is saved to the database. In addition, users can upload more than one photo to the system.
+
+Technologys:
+CNN
+Node Js
+Bootstrap 
+
+Website of Project: https://flovers-bm314.herokuapp.com/
