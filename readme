@@ -1,4 +1,4 @@
-The purpose of this project is estimate flower's species.To begin with,
+The purpose of this project is estimating flower species given the input images. To begin with,
 a user has to upload a photo to the website. When user clicks on "upload" button, 
 the program takes that photo, analyze it and then returns the predicted flower species. 
 Besides, this photo is saved to the database. In addition, users can upload more than one photo to the system.
